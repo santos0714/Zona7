@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+/* Activa el variant `dark:` controlado por una clase (.dark) en <html>,
+   en vez del prefers-color-scheme por defecto de Tailwind v4. next-themes
+   agrega/quita esa clase según la preferencia guardada del usuario. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #ffffff;
+  --foreground: #0a0a0a;
+  --surface: #f5f5f3;
+  --surface-strong: #ececea;
+  --border-color: #e2e2df;
+  --muted: #6b6b68;
+  --accent: #c8102e;
+  --accent-hover: #a80d26;
+  --accent-foreground: #ffffff;
+  --focus-ring: #c8102e;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #f5f5f3;
+  --surface: #141414;
+  --surface-strong: #1c1c1c;
+  --border-color: #262626;
+  --muted: #a1a19d;
+  --accent: #e2233f;
+  --accent-hover: #ff3956;
+  --accent-foreground: #ffffff;
+  --focus-ring: #e2233f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-strong: var(--surface-strong);
+  --color-border: var(--border-color);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --font-heading: "Barlow Condensed", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  border-color: var(--border-color);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+/* Los paneles fuera de pantalla (carrito, menú móvil) se mueven con
+   translate-x-full; en algunos navegadores esa caja transformada sigue
+   contando para el ancho "scrolleable" de la página y genera un scroll
+   horizontal fantasma. Esto lo bloquea sin afectar el sticky vertical. */
+body {
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4,
+.font-heading {
+  font-family: var(--font-heading), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0.01em;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--accent-foreground);
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+/* Transición suave global al cambiar entre modo claro/oscuro */
+body,
+header,
+footer,
+main {
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+/* ===== Transiciones con timing-function propio por propiedad =====
+   En vez de animar todo junto con la misma curva (transition-all), cada
+   propiedad tiene su propia duración y su propio transition-timing-function,
+   igual que en `transition: width 2s, height 4s, background-color 3s;`
+   pero con tiempos pensados para una interfaz (cientos de ms, no segundos). */
+
+/* Botón "Ver tienda" del hero: el tamaño reacciona rápido y con rebote leve,
+   el color de fondo cambia más despacio y sin rebote. */
+.btn-hero-primary {
+  transition-property: transform, background-color;
+  transition-duration: 220ms, 400ms;
+  transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1), ease;
+}
+.btn-hero-primary:hover {
+  transform: scale(1.03);
+  background-color: var(--accent-hover);
+}
+
+/* Botón "Próximamente" del hero: el borde reacciona primero, el relleno lo
+   sigue un poco después, con una curva más suave (ease-out). */
+.btn-hero-secondary {
+  transition-property: border-color, background-color, color;
+  transition-duration: 180ms, 320ms, 320ms;
+  transition-timing-function: ease, cubic-bezier(0.16, 1, 0.3, 1), cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-hero-secondary:hover {
+  border-color: var(--background);
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Imágenes de las tarjetas de producto: el cambio de foto (opacity) es más
+   rápido y lineal-suave; el acercamiento leve (transform: scale) es más
+   lento y con una curva "ease-out" pronunciada, para que se sienta premium
+   y no brusco. Antes solo se transicionaba opacity y el scale saltaba sin
+   animar. */
+.product-card-media {
+  transition-property: opacity, transform;
+  transition-duration: 300ms, 450ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1), cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Franja con las tallas que aparece sobre la imagen al pasar el cursor. */
+.product-card-overlay {
+  transition-property: opacity, transform;
+  transition-duration: 250ms, 350ms;
+  transition-timing-function: ease, cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

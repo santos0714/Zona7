@@ -1,0 +1,755 @@
+[
+  {
+    "id": "ua-1",
+    "slug": "under-armour-playera-heatgear-manga-corta",
+    "sku": "UA-1-S",
+    "marca": "Under Armour",
+    "nombre": "Playera HeatGear Manga Corta",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "Playera de entrenamiento en tela HeatGear que absorbe la humedad y se seca rápido. Corte regular.",
+    "precio": 899,
+    "precioAnterior": 999,
+    "imagenPrincipal": "/products/under-armour/ua-1-1.svg",
+    "imagenSecundaria": "/products/under-armour/ua-1-2.svg",
+    "imagenes": [
+      "/products/under-armour/ua-1-1.svg",
+      "/products/under-armour/ua-1-2.svg"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "UA-1-S",
+        "talla": "S",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-1-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-1-L",
+        "talla": "L",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-1-XL",
+        "talla": "XL",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      }
+    ],
+    "tallasDisponibles": [],
+    "coloresDisponibles": [],
+    "stockTotal": 0,
+    "disponible": false,
+    "descuentoPorcentaje": 10
+  },
+  {
+    "id": "ua-2",
+    "slug": "under-armour-playera-tech-2-0",
+    "sku": "UA-2-S",
+    "marca": "Under Armour",
+    "nombre": "Playera Tech 2.0",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "Playera ligera de secado rápido, ideal para entrenar o uso diario. Tela suave y transpirable.",
+    "precio": 749,
+    "imagenPrincipal": "/products/under-armour/ua-2-1.svg",
+    "imagenSecundaria": "/products/under-armour/ua-2-2.svg",
+    "imagenes": [
+      "/products/under-armour/ua-2-1.svg",
+      "/products/under-armour/ua-2-2.svg"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "UA-2-S",
+        "talla": "S",
+        "color": "Gris Jaspe",
+        "colorHex": "#8a8a8a",
+        "stock": 0
+      },
+      {
+        "sku": "UA-2-M",
+        "talla": "M",
+        "color": "Gris Jaspe",
+        "colorHex": "#8a8a8a",
+        "stock": 0
+      },
+      {
+        "sku": "UA-2-L",
+        "talla": "L",
+        "color": "Gris Jaspe",
+        "colorHex": "#8a8a8a",
+        "stock": 0
+      },
+      {
+        "sku": "UA-2-XL",
+        "talla": "XL",
+        "color": "Gris Jaspe",
+        "colorHex": "#8a8a8a",
+        "stock": 0
+      }
+    ],
+    "tallasDisponibles": [],
+    "coloresDisponibles": [],
+    "stockTotal": 0,
+    "disponible": false
+  },
+  {
+    "id": "ua-3",
+    "slug": "under-armour-short-raid-2-0",
+    "sku": "UA-3-S",
+    "marca": "Under Armour",
+    "nombre": "Short Raid 2.0",
+    "categoria": "shorts",
+    "genero": "hombre",
+    "descripcion": "Short de entrenamiento con tela ligera y bolsillos laterales. Libertad de movimiento total.",
+    "precio": 649,
+    "imagenPrincipal": "/products/under-armour/ua-3-1.svg",
+    "imagenSecundaria": "/products/under-armour/ua-3-2.svg",
+    "imagenes": [
+      "/products/under-armour/ua-3-1.svg",
+      "/products/under-armour/ua-3-2.svg"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "UA-3-S",
+        "talla": "S",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      }
+    ],
+    "tallasDisponibles": [],
+    "coloresDisponibles": [],
+    "stockTotal": 0,
+    "disponible": false
+  },
+  {
+    "id": "ua-9",
+    "slug": "under-armour-jersey-training",
+    "sku": "UA-9-S",
+    "marca": "Under Armour",
+    "nombre": "Jersey Training",
+    "categoria": "jerseys",
+    "genero": "hombre",
+    "descripcion": "Jersey deportivo de malla ligera con ajuste holgado, ideal para entrenar en equipo.",
+    "precio": 949,
+    "imagenPrincipal": "/products/under-armour/ua-9-1.svg",
+    "imagenSecundaria": "/products/under-armour/ua-9-2.svg",
+    "imagenes": [
+      "/products/under-armour/ua-9-1.svg",
+      "/products/under-armour/ua-9-2.svg"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "UA-9-S",
+        "talla": "S",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-9-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-9-L",
+        "talla": "L",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "UA-9-XL",
+        "talla": "XL",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      }
+    ],
+    "tallasDisponibles": [],
+    "coloresDisponibles": [],
+    "stockTotal": 0,
+    "disponible": false
+  },
+  {
+    "id": "vq-1",
+    "slug": "vanquish-vanquish-black-oversized-boxy-football-jersey",
+    "sku": "VQ-1-L",
+    "marca": "Vanquish",
+    "nombre": "VANQUISH BLACK OVERSIZED BOXY FOOTBALL JERSEY",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "Playera edición limitada de las populares camisetas deportivas de corte oversized para equipo",
+    "precio": 999,
+    "precioAnterior": 1100,
+    "imagenPrincipal": "/products/vanquish/vq1.1.png",
+    "imagenSecundaria": "/products/vanquish/vq-1.2.png",
+    "imagenes": [
+      "/products/vanquish/vq1.1.png",
+      "/products/vanquish/vq-1.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-1-L",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      },
+      {
+        "sku": "VQ-1-M",
+        "talla": "L",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 0
+      }
+    ],
+    "tallasDisponibles": [],
+    "coloresDisponibles": [],
+    "stockTotal": 0,
+    "disponible": false,
+    "descuentoPorcentaje": 9
+  },
+  {
+    "id": "vq-2",
+    "slug": "vanquish-vanquish-white-oversized-boxy-football-jersey",
+    "sku": "VQ-2-M",
+    "marca": "Vanquish",
+    "nombre": "VANQUISH WHITE OVERSIZED BOXY FOOTBALL JERSEY",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "Playera edición limitada de las populares camisetas deportivas de corte oversized para equipo",
+    "precio": 999,
+    "precioAnterior": 1100,
+    "imagenPrincipal": "/products/vanquish/vq2.1.png",
+    "imagenSecundaria": "/products/vanquish/vq2.2.png",
+    "imagenes": [
+      "/products/vanquish/vq2.1.png",
+      "/products/vanquish/vq2.2.png"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-2-M",
+        "talla": "M",
+        "color": "Blanco",
+        "colorHex": "#FFFFFF",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Blanco"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 9
+  },
+  {
+    "id": "vq-3",
+    "slug": "vanquish-lrt-dashed-slim-fit-performance-t-shirt",
+    "sku": "VQ-3-M",
+    "marca": "Vanquish",
+    "nombre": "LRT DASHED SLIM FIT PERFORMANCE T SHIRT",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "Playera con con logo minimalista al frente y gráfico en la parte posterior. Cuenta con tratamiento antibacteriano y tecnología de absorción de humedad que ayuda a mantenerte fresco y seco durante el entrenamiento y el uso diario. Está confeccionada con una mezcla de 92% poliéster y 8% spandex.",
+    "precio": 699,
+    "precioAnterior": 750,
+    "imagenPrincipal": "/products/vanquish/vq3.1.png",
+    "imagenSecundaria": "/products/vanquish/vq3.2.png",
+    "imagenes": [
+      "/products/vanquish/vq3.1.png",
+      "/products/vanquish/vq3.2.png"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-3-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Negro"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 7
+  },
+  {
+    "id": "vq-4",
+    "slug": "vanquish-vanquish-essential-steel-grey-oversized-sweatpants",
+    "sku": "VQ-4-M",
+    "marca": "Vanquish",
+    "nombre": "Vanquish Essential Steel Grey Oversized Sweatpants",
+    "categoria": "pants",
+    "genero": "hombre",
+    "descripcion": "Sweatpants con bolsillos laterales para calentar las manos y un bolsillo trasero de parche con un pequeño logotipo VQ del mismo tono en la parte posterior y el logotipo Vanquish en la pierna izquierda. Los puños elásticos internos les dan un aspecto oversized.",
+    "precio": 910,
+    "precioAnterior": 1099,
+    "imagenPrincipal": "/products/vanquish/vq4.1.png",
+    "imagenSecundaria": "/products/vanquish/vq4.2.png",
+    "imagenes": [
+      "/products/vanquish/vq4.1.png",
+      "/products/vanquish/vq4.2.png"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-4-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#9c9c9c",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Negro"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 17
+  },
+  {
+    "id": "vq-5",
+    "slug": "vanquish-enhance-v2-dusk-blue-flares",
+    "sku": "VQ-5-AZ-S",
+    "marca": "Vanquish",
+    "nombre": "Enhance V2 Dusk Blue Flares",
+    "categoria": "leggings",
+    "genero": "mujer",
+    "descripcion": "La suave y cómoda tela Enhance que tanto te gusta ahora está disponible en más colores y estilos. Está confeccionada con 80% poliéster y 20% spandex interlock. Se recomienda lavar al revés a 30 °C. La modelo mide 165 cm y usa talla S.",
+    "precio": 650,
+    "precioAnterior": 699,
+    "imagenPrincipal": "/products/vanquish/vq5.1.png",
+    "imagenSecundaria": "/products/vanquish/vq5.2.png",
+    "imagenes": [
+      "/products/vanquish/vq5.1.png",
+      "/products/vanquish/vq5.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-5-AZ-S",
+        "talla": "S",
+        "color": "Azul",
+        "colorHex": "#00008B",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "S"
+    ],
+    "coloresDisponibles": [
+      "Azul"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 7
+  },
+  {
+    "id": "vq-6",
+    "slug": "vanquish-lrt-inversions-slim-fit-performance-t-shirt",
+    "sku": "VQ-6-M",
+    "marca": "Vanquish",
+    "nombre": "LRT INVERSIONS SLIM FIT PERFORMANCE T SHIRT",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "L.R.T Lift Run Train regresa con nuevos gráficos y un estilo oversized ideal para usar dentro y fuera del gimnasio. Cuenta con logo minimalista al frente, gráfico en la espalda, tratamiento antibacteriano y tecnología que absorbe el sudor para mantenerte fresco y seco. Fabricada con 92% poliéster y 8% spandex. El modelo mide 185 cm y usa talla L.",
+    "precio": 699,
+    "precioAnterior": 799,
+    "imagenPrincipal": "/products/vanquish/vq6.1.png",
+    "imagenSecundaria": "/products/vanquish/vq6.2.png",
+    "imagenes": [
+      "/products/vanquish/vq6.1.png",
+      "/products/vanquish/vq6.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-6-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 2
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Negro"
+    ],
+    "stockTotal": 2,
+    "disponible": true,
+    "descuentoPorcentaje": 13
+  },
+  {
+    "id": "vq-7",
+    "slug": "vanquish-vanquish-essential-steel-grey-slim-fit-short-sleeve-t-shirt",
+    "sku": "VQ-7-M",
+    "marca": "Vanquish",
+    "nombre": "Vanquish Essential Steel Grey Slim Fit Short Sleeve T Shirt",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "La colección Essential combina un estilo premium y versátil para el gimnasio y el uso diario. Esta camiseta de manga corta tiene un corte tapered que se ajusta a hombros, pecho y brazos, con logo tonal minimalista de Vanquish y aberturas laterales para mayor libertad de movimiento. Fabricada con 95% algodón y 5% elastano. El modelo mide 178 cm y usa talla L.",
+    "precio": 699,
+    "precioAnterior": 799,
+    "imagenPrincipal": "/products/vanquish/vq7.1.png",
+    "imagenSecundaria": "/products/vanquish/vq7.2.png",
+    "imagenes": [
+      "/products/vanquish/vq7.1.png",
+      "/products/vanquish/vq7.2.png"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-7-M",
+        "talla": "M",
+        "color": "Gris",
+        "colorHex": "#9c9c9c",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Gris"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 13
+  },
+  {
+    "id": "vq-8",
+    "slug": "vanquish-vanquish-essential-v2-steel-grey-oversized-boxy-sweatshirt",
+    "sku": "VQ-8-G-M",
+    "marca": "Vanquish",
+    "nombre": "Vanquish Essential V2 Steel Grey Oversized Boxy Sweatshirt",
+    "categoria": "sudaderas",
+    "genero": "hombre",
+    "descripcion": "La colección Essential está diseñada para entrenamiento y uso diario, combinando comodidad y estilo. Esta prenda cuenta con cuello acanalado profundo, hombros caídos que amplían visualmente la silueta y un logo tonal minimalista de Vanquish al frente. Fabricada con 51% algodón y 49% poliéster. El modelo mide 180 cm y usa talla L.",
+    "precio": 999,
+    "precioAnterior": 1199,
+    "imagenPrincipal": "/products/vanquish/vq8.1.png",
+    "imagenSecundaria": "/products/vanquish/vq8.2.png",
+    "imagenes": [
+      "/products/vanquish/vq8.1.png",
+      "/products/vanquish/vq8.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-8-G-M",
+        "talla": "M",
+        "color": "Gris",
+        "colorHex": "#9c9c9c",
+        "stock": 1
+      },
+      {
+        "sku": "VQ-8-N-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 1
+      },
+      {
+        "sku": "VQ-8-N-L",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 2
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Gris",
+      "Negro"
+    ],
+    "stockTotal": 4,
+    "disponible": true,
+    "descuentoPorcentaje": 17
+  },
+  {
+    "id": "vq-9",
+    "slug": "vanquish-waffle-dark-khaki-oversized-hoodie",
+    "sku": "VQ-9-L",
+    "marca": "Vanquish",
+    "nombre": "WAFFLE DARK KHAKI OVERSIZED HOODIE",
+    "categoria": "sudaderas",
+    "genero": "hombre",
+    "descripcion": "La Waffle Hoodie combina un diseño oversized con textura waffle y detalles minimalistas bordados. Cuenta con hombros ligeramente caídos, bolsillo tipo canguro y puños y dobladillo acanalados. Fabricada con 65% poliéster y 35% algodón, con un gramaje de 360 GSM. El modelo mide 180 cm y usa talla M.",
+    "precio": 899,
+    "precioAnterior": 999,
+    "imagenPrincipal": "/products/vanquish/vq9.1.png",
+    "imagenSecundaria": "/products/vanquish/vq9.2.png",
+    "imagenes": [
+      "/products/vanquish/vq9.1.png",
+      "/products/vanquish/vq9.2.png"
+    ],
+    "destacado": false,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-9-L",
+        "talla": "L",
+        "color": "Green",
+        "colorHex": "#6E6E5C",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "L"
+    ],
+    "coloresDisponibles": [
+      "Green"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 10
+  },
+  {
+    "id": "vq-10",
+    "slug": "vanquish-vanquish-ultra-soft-black-slim-fit-t-shirt",
+    "sku": "VQ-10-M",
+    "marca": "Vanquish",
+    "nombre": "Vanquish Ultra Soft Black Slim Fit T Shirt",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "La colección Ultra Soft recupera el estilo clásico de Vanquish con un diseño moderno y cómodo. Cuenta con un corte slim de compresión que resalta la silueta y una tela ultrasuave, elástica y confortable. Incluye gráfico estampado en el pecho y distintivo tejido en el dobladillo. Fabricada con 95% viscosa y 5% elastano. El modelo mide 180 cm y usa talla M.",
+    "precio": 749,
+    "imagenPrincipal": "/products/vanquish/vq10.1.png",
+    "imagenSecundaria": "/products/vanquish/vq10.2.png",
+    "imagenes": [
+      "/products/vanquish/vq10.1.png",
+      "/products/vanquish/vq10.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-10-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Negro"
+    ],
+    "stockTotal": 1,
+    "disponible": true
+  },
+  {
+    "id": "vq-11",
+    "slug": "vanquish-vanquish-enhance-steel-blue-high-waist-legging",
+    "sku": "VQ-11-XS",
+    "marca": "Vanquish",
+    "nombre": "VANQUISH ENHANCE STEEL BLUE HIGH-WAIST LEGGING",
+    "categoria": "leggings",
+    "genero": "mujer",
+    "descripcion": "Las Enhance High-Waist Leggings están confeccionadas con una tela ultrasuave y elástica para brindar comodidad y un ajuste favorecedor. Cuentan con cintura alta, abertura estándar en las piernas, panel trasero y branding de Vanquish en la cintura posterior. Fabricadas con 80% poliéster y 20% spandex interlock. La modelo mide 165 cm y usa talla S.",
+    "precio": 699,
+    "precioAnterior": 999,
+    "imagenPrincipal": "/products/vanquish/vq11.1.png",
+    "imagenSecundaria": "/products/vanquish/vq11.2.png",
+    "imagenes": [
+      "/products/vanquish/vq11.1.png",
+      "/products/vanquish/vq11.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-11-XS",
+        "talla": "XS",
+        "color": "Azul",
+        "colorHex": "#00008B",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "XS"
+    ],
+    "coloresDisponibles": [
+      "Azul"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 30
+  },
+  {
+    "id": "vq-12",
+    "slug": "vanquish-vanquish-essential-black-performance-oversized-t-shirt",
+    "sku": "VQ-12-M",
+    "marca": "Vanquish",
+    "nombre": "Vanquish Essential Black Performance Oversized T Shirt",
+    "categoria": "playeras",
+    "genero": "hombre",
+    "descripcion": "La colección Essential ofrece prendas versátiles para el gimnasio y el uso diario. Esta camiseta cuenta con un corte oversized clásico, cuello acanalado y logo tonal minimalista de Vanquish en el pecho y la parte posterior del cuello. Fabricada con 95% poliéster y 5% elastano. El modelo mide 183 cm y usa talla L.",
+    "precio": 699,
+    "precioAnterior": 899,
+    "imagenPrincipal": "/products/vanquish/vq12.1.png",
+    "imagenSecundaria": "/products/vanquish/vq12.2.png",
+    "imagenes": [
+      "/products/vanquish/vq12.1.png",
+      "/products/vanquish/vq12.2.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "VQ-12-M",
+        "talla": "M",
+        "color": "Negro",
+        "colorHex": "#111111",
+        "stock": 1
+      }
+    ],
+    "tallasDisponibles": [
+      "M"
+    ],
+    "coloresDisponibles": [
+      "Negro"
+    ],
+    "stockTotal": 1,
+    "disponible": true,
+    "descuentoPorcentaje": 22
+  },
+  {
+    "id": "pa-1",
+    "slug": "pirma-jersey-playera-club-cruz-local-26-27",
+    "sku": "PA-2-L",
+    "marca": "Pirma",
+    "nombre": "Jersey Playera Club Cruz Local 26/27",
+    "categoria": "jerseys",
+    "genero": "hombre",
+    "descripcion": "Jersey deportivo club Cruz Azul, local, después de consagrarse como campeones por décima ocasión.",
+    "precio": 850,
+    "imagenPrincipal": "/products/pirma/cruzazul1.png",
+    "imagenes": [
+      "/products/pirma/cruzazul1.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "PA-2-L",
+        "talla": "L",
+        "color": "Azul Celeste",
+        "colorHex": "#001F60",
+        "stock": 2
+      }
+    ],
+    "tallasDisponibles": [
+      "L"
+    ],
+    "coloresDisponibles": [
+      "Azul Celeste"
+    ],
+    "stockTotal": 2,
+    "disponible": true
+  },
+  {
+    "id": "ad-1",
+    "slug": "adidas-jersey-local-club-america-26-27",
+    "sku": "AD-2-L",
+    "marca": "Adidas",
+    "nombre": "Jersey Local Club América 26/27",
+    "categoria": "jerseys",
+    "genero": "hombre",
+    "descripcion": "Jersey deportivo club América, local, en celebración de los 110 años de grandeza del club, fusiona el legado del uniforme 1998/1999 con detalles. modernos y audaces.",
+    "precio": 850,
+    "precioAnterior": 950,
+    "imagenPrincipal": "/products/adidas/america1.png",
+    "imagenes": [
+      "/products/adidas/america1.png"
+    ],
+    "destacado": true,
+    "proximamente": false,
+    "activo": true,
+    "variantes": [
+      {
+        "sku": "AD-2-L",
+        "talla": "L",
+        "color": "Amarillo Crema",
+        "colorHex": "#F0EB9A",
+        "stock": 2
+      }
+    ],
+    "tallasDisponibles": [
+      "L"
+    ],
+    "coloresDisponibles": [
+      "Amarillo Crema"
+    ],
+    "stockTotal": 2,
+    "disponible": true,
+    "descuentoPorcentaje": 11
+  }
+]
