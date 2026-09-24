@@ -20,7 +20,7 @@ export const storeConfig = {
    * SIN signos ni espacios (ej. 52 + 10 dígitos para México).
    * Este es un valor de ejemplo, se debe reemplazar por el número real.
    */
-  whatsappNumber: "5216461234567",
+  whatsappNumber: "526464575431",
 
   /**
    * Link de pago de Mercado Pago (Checkout Pro / link de pago simple).
@@ -32,8 +32,8 @@ export const storeConfig = {
   mercadoPagoLink: "https://mpago.la/REEMPLAZAR-CON-LINK-REAL",
 
   socials: {
-    instagram: "https://instagram.com/zona7",
-    tiktok: "https://tiktok.com/@zona7",
+    instagram: "https://www.instagram.com/zona7.mx?stkn=MXY5ZDRwN2o5MWZqbg==",
+    tiktok: "https://tiktok.com",
     facebook: "",
   },
 
