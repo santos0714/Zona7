@@ -33,7 +33,11 @@ export const storeConfig = {
 
   socials: {
     instagram: "https://www.instagram.com/zona7.mx?stkn=MXY5ZDRwN2o5MWZqbg==",
+<<<<<<< HEAD
     tiktok: "https://tiktok.com/@zona7",
+=======
+    tiktok: "https://tiktok.com",
+>>>>>>> e8236f3dc9b9b37d3ca3b82719051721b9ff5490
     facebook: "",
   },
 
