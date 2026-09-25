@@ -1,0 +1,9 @@
+[33mcommit 335b31d4382354ee64a2aa5384e00f4fae7f5994[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: santos0714 <eduardo.lopez14@uabc.edu.mx>
+Date:   Thu Sep 24 23:25:52 2026 -0700
+
+    Actualiza imagen Vanquish
+
+ data/products/products.json                          |   5 [32m+++[m[31m--[m
+ public/products/vanquish/{vq1.2.png => vq1.2-v2.png} | Bin
+ 2 files changed, 3 insertions(+), 2 deletions(-)
