@@ -208,10 +208,10 @@
     "precio": 999,
     "precioAnterior": 1100,
     "imagenPrincipal": "/products/vanquish/vq1.1.png",
-    "imagenSecundaria": "/products/vanquish/vq1.2.png",
+    "imagenSecundaria": "/products/vanquish/vq1.2-v2.png",
     "imagenes": [
       "/products/vanquish/vq1.1.png",
-      "/products/vanquish/vq1.2.png"
+      "/products/vanquish/vq1.2-v2.png"
     ],
     "destacado": true,
     "proximamente": false,
@@ -753,3 +753,4 @@
     "descuentoPorcentaje": 11
   }
 ]
+
