@@ -96,7 +96,7 @@ export function Footer() {
       <div className="border-t border-border">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-6 text-xs text-muted sm:flex-row sm:px-6 lg:px-8">
           <p>
-            © {year} {storeConfig.name}. Todos los derechos reservados.
+             {year} {storeConfig.name}.
           </p>
           <p>Precios en pesos mexicanos (MXN).</p>
         </div>

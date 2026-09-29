@@ -50,14 +50,14 @@ export const storeConfig = {
       label: "Ensenada, Baja California",
       state: "Baja California",
       etaDays: "1-2 días hábiles",
-      shippingNote: "Entrega local y paquetería.",
+      shippingNote: "Entrega local.",
     },
     {
       id: "tlaxiaco",
       label: "Tlaxiaco, Oaxaca",
       state: "Oaxaca",
-      etaDays: "3-5 días hábiles",
-      shippingNote: "Entrega vía paquetería.",
+      etaDays: "1-2 días hábiles",
+      shippingNote: "Entrega local.",
     },
   ],
 
